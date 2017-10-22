@@ -1,10 +1,10 @@
-import { AppPage } from './app.po';
+import { DojoMailPage } from './app.po';
 
 describe('dojo-mail App', () => {
-  let page: AppPage;
+  let page: DojoMailPage;
 
   beforeEach(() => {
-    page = new AppPage();
+    page = new DojoMailPage();
   });
 
   it('should display welcome message', () => {

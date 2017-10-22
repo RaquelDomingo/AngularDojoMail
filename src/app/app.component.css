@@ -1,0 +1,22 @@
+
+/*.container{
+	color: black;
+	font-family: ABeeZee;
+}*/
+h1{
+	font-weight: bold;
+	font-family: ABeeZee;
+	font-size: 2.8em;
+}
+th,td{
+	padding-right: 30px;
+	padding-bottom: 20px;
+	font-family: ABeeZee;
+	font-size: 0.8em;
+}
+
+th{
+	font-weight: 900;
+	font-family: ABeeZee;
+	font-size: 1.3em;
+}
